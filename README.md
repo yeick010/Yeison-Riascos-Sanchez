@@ -52,7 +52,7 @@ AI Governance & Risk Strategy | Data-Driven Analyst with 3 years of experience i
     
   - **Skills:** `AI Governance`, `Ethical Risk Assessment`, `Proprietary Frameworks`.
     
-- **[Predictive Customer Retention (Classification Model)]**([https://github.com/yeick010/Predictive-Customer-Retention](https://www.google.com/search?q=https://github.com/yeick010/Predictive-Customer-Retention))
+- **[Predictive Customer Retention (Classification Model)]**([https://github.com/yeick010/Predictive-Customer-Retention]([https://www.google.com/search?q=https://github.com/yeick010/Predictive-Customer-Retention](https://github.com/yeick010/Customer-Segmentation-Project)
   
   - *Developed a Python-based classification model using NLP on customer reviews to proactively identify clients at high risk of churn, enabling targeted retention strategies.*
     
