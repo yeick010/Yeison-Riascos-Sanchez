@@ -40,21 +40,21 @@ AI Governance & Risk Strategy | Data-Driven Analyst with 3 years of experience i
 
 ### **Relevant Data Analysis Projects**
 
-- **[Lead Project: Integrated Strategic Analysis for F.lli Gancia S.p.A. (POC)]**([GitHub - yeick010/AI-Strategy-Portfolio: Un portfolio di progetti e analisi strategiche sull&#39;intersezione tra Business, Etica e Intelligenza Artificiale.](https://github.com/yeick010/AI-Strategy-Portfolio))
+- **[Lead Project: Integrated Strategic Analysis for F.lli Gancia S.p.A. (POC)]**([GitHub - yeick010/AI-Strategy-Portfolio: Un portfolio di progetti e analisi strategiche;intersezione tra Business, Etica e Intelligenza Artificiale.](https://github.com/yeick010/AI-Strategy-Portfolio))
   
   - Led a strategic NLP analysis using a multi-agent architecture (LLMs) to analyze the sentiment of 350 reviews. Translated AI-generated insights into a quantifiable risk diagnosis (VARS-B2B) and a roadmap of concrete actions.
     
   - **Skills:** `NLP`, `Risk Analysis (VARS)`, `LLM Application`, `Data Storytelling`.
     
-- **[Project 2: Ethical Audit of a Public AI System (Ongoing)]**([GitHub - yeick010/AI-Strategy-Portfolio: Un portfolio di progetti e analisi strategiche sull&#39;intersezione tra Business, Etica e Intelligenza Artificiale.](https://github.com/yeick010/AI-Strategy-Portfolio))
+- **[Project 2: Ethical Audit of a Public AI System (Ongoing)]**([GitHub - yeick010/AI-Strategy-Portfolio: Un portfolio di progetti e analisi strategiche;intersezione tra Business, Etica e Intelligenza Artificiale.](https://github.com/yeick010/AI-Strategy-Portfolio))
   
   - Applied the proprietary AEVF framework for the ethical validation of a public-facing AI system, mapping governance risks against brand values.
     
   - **Skills:** `AI Governance`, `Ethical Risk Assessment`, `Proprietary Frameworks`.
     
-- **[Predictive Customer Retention (Classification Model)]**([https://github.com/yeick010/Predictive-Customer-Retention]([https://www.google.com/search?q=https://github.com/yeick010/Predictive-Customer-Retention](https://github.com/yeick010/Customer-Segmentation-Project)
+- **[Customer-Segmentation-Project]**(https://github.com/yeick010/Customer-Segmentation-Project)
   
-  - *Developed a Python-based classification model using NLP on customer reviews to proactively identify clients at high risk of churn, enabling targeted retention strategies.*
+  - *Applied unsupervised clustering (K-Means) to a dataset of credit card transactions to segment customers based on their behavior. The model revealed four distinct personas (e.g., 'VIPs,' 'Prudent Users'), enabling the development of data-driven marketing campaigns.*
     
   - **Skills:** `Machine Learning`, `Python (Scikit-learn)`, `NLP`, `Classification`.
     
