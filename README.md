@@ -11,7 +11,7 @@ AI Governance & Risk Strategy | Data-Driven Analyst with 3 years of experience i
   
 - **LinkedIn:** [linkedin.com/in/yeison-riascos-sanchez](https://https://linkedin.com/in/yeison-riascos-sanchez)
   
-- **GitHub:** [github.com/yeick010/AI-Strategy-Portfolio](https://github.com/yeick010/AI-Strategy-Portfolio)
+- **GitHub:**[https://github.com/yeick010/AI-Strategy-Portfolio](https://github.com/yeick010/AI-Governance-Strategy-Portfolio))
   
 
 ---
