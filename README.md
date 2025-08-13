@@ -1,8 +1,5 @@
 # Yeison-Riascos-Sanchez
 ---
-
-### **YEISON RIASCOS SANCHEZ**
-
 Data Analyst & Business Intelligence | Python, SQL, Power BI
 
 AI Governance & Risk Strategy | Data-Driven Analyst with 3 years of experience in independent projects, specializing in using Python (Pandas, Numpy), and SQL to extract, clean, and analyze complex datasets. I possess advanced skills in creating executive dashboards with Power BI and in using NLP to transform unstructured data into measurable business insights. My goal is to translate business needs into clear and actionable data-driven solutions.
