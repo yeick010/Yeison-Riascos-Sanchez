@@ -1,62 +1,47 @@
-# Yeison-Riascos-Sanchez
----
-Data Analyst & Business Intelligence | Python, SQL, Power BI
+# Yeison Riascos Sanchez
 
-AI Governance & Risk Strategy | Data-Driven Analyst with 3 years of experience in independent projects, specializing in using Python (Pandas, Numpy), and SQL to extract, clean, and analyze complex datasets. I possess advanced skills in creating executive dashboards with Power BI and in using NLP to transform unstructured data into measurable business insights. My goal is to translate business needs into clear and actionable data-driven solutions.
+**AI Agent Developer & Fintech Automation Builder**
+Spirano, Italy · Building autonomous systems at the intersection of LLMs, blockchain and financial infrastructure.
 
-- **Email:** [yeisonriascos@gmail.com](yeisonriascos@gmail.com)
-  
-- **LinkedIn:** [linkedin.com/in/yeison-riascos-sanchez](https://https://linkedin.com/in/yeison-riascos-sanchez)
-  
-- **GitHub:**[https://github.com/yeick010/AI-Strategy-Portfolio](https://github.com/yeick010/AI-Governance-Strategy-Portfolio))
-  
+I design and ship multi-agent architectures, on-chain automation, and AI-driven trading tooling. My work focuses on systems that *act*, not just analyse — agents that hold state, coordinate, and produce measurable outcomes.
+
+- **Email:** yeisonriascos@gmail.com
+- **LinkedIn:** [linkedin.com/in/yeison-riascos-sanchez](https://linkedin.com/in/yeison-riascos-sanchez)
+- **GitHub:** [github.com/yeick010](https://github.com/yeick010)
 
 ---
 
-### **Key Skills**
+## What I'm building
 
-**Data Analysis & Tools**
-
-- **Languages:** Python (Pandas, Numpy), SQL
-  
-- **BI & Visualization:** Power BI, Python Libraries (Matplotlib, Seaborn)
-  
-- **Technical Skills:** Statistics, NLP, Machine Learning (Principles), Data Mining
-  
-
-**Strategic Skills**
-
-- **Risk Analysis (VARS)**
-  
-- **AI Governance (EU AI Act)**
-  
-- **Data Storytelling**
-  
+- **ArbitrageAgent** — AI-powered cryptocurrency arbitrage system with paper-trading dashboard *(private)*.
+- **AgentShield-MCP** — multi-agent orchestration platform with validator contracts *(private)*.
+- **Portfolio Orchestrator** — unified ecosystem for coordinating multiple AI agents *(private)*.
+- **Croméyeuï Cafè Bot** — WhatsApp business automation, Mistral API integration *(private)*.
+- **Proof-of-Coherence** — public research artefact on falsifiability frameworks for AI claims — [repo](https://github.com/yeick010/proof-of-coherence).
 
 ---
 
-### **Relevant Data Analysis Projects**
+## Stack
 
-- **[Lead Project: Integrated Strategic Analysis for F.lli Gancia S.p.A. (POC)]**([GitHub - yeick010/AI-Strategy-Portfolio: Un portfolio di progetti e analisi strategiche;intersezione tra Business, Etica e Intelligenza Artificiale.](https://github.com/yeick010/AI-Strategy-Portfolio))
-  
-  - Led a strategic NLP analysis using a multi-agent architecture (LLMs) to analyze the sentiment of 350 reviews. Translated AI-generated insights into a quantifiable risk diagnosis (VARS-B2B) and a roadmap of concrete actions.
-    
-  - **Skills:** `NLP`, `Risk Analysis (VARS)`, `LLM Application`, `Data Storytelling`.
-    
-- **[Project 2: Ethical Audit of a Public AI System (Ongoing)]**([GitHub - yeick010/AI-Strategy-Portfolio: Un portfolio di progetti e analisi strategiche;intersezione tra Business, Etica e Intelligenza Artificiale.](https://github.com/yeick010/AI-Strategy-Portfolio))
-  
-  - Applied the proprietary AEVF framework for the ethical validation of a public-facing AI system, mapping governance risks against brand values.
-    
-  - **Skills:** `AI Governance`, `Ethical Risk Assessment`, `Proprietary Frameworks`.
-    
-- **[Customer-Segmentation-Project]**(https://github.com/yeick010/Customer-Segmentation-Project)
-  
-  - *Applied unsupervised clustering (K-Means) to a dataset of credit card transactions to segment customers based on their behavior. The model revealed four distinct personas (e.g., 'VIPs,' 'Prudent Users'), enabling the development of data-driven marketing campaigns.*
-    
-  - **Skills:** `Machine Learning`, `Python (Scikit-learn)`, `NLP`, `Classification`.
-    
-- **[Ethical Web Data Mining for Market Opportunity Analysis]**([https://github.com/yeick010/Ethical-Market-Analysis](https://www.google.com/search?q=https://github.com/yeick010/Ethical-Market-Analysis))
-  
-  - *Performed data extraction from public web sources using ethical and responsible scraping techniques to identify emerging market trends and unmet consumer needs.*
-    
-  - **Skills:** `Data Mining`, `Ethical Web Scraping`, `Python (BeautifulSoup)`, `Market Analysis`.
+**Languages:** Python, JavaScript / Node.js, Bash, Solidity
+**AI / Agents:** LLM integration, prompt engineering, CrewAI, LangChain, multi-agent coordination
+**Cloud:** Google Cloud Platform (Cloud Run, Cloud Shell, Secret Manager)
+**Web3:** Coinbase CDP SDK, Thirdweb, Alchemy, Circle, chain-agnostic design
+**Data & BI (foundational):** Python (Pandas, NumPy), SQL, Power BI, NLP
+
+---
+
+## How I work
+
+- **First-principles.** Understand the constraint before optimising the solution.
+- **Pre-registration over post-hoc.** When I run an experiment, the falsifiability conditions are written before the data is seen.
+- **Cost-aware.** I optimise for the cheapest path to a real measurement, not the most elegant one.
+- **Honest about scope.** I'd rather ship a small thing that works than promise a large thing that doesn't.
+
+---
+
+## Open to
+
+- Collaboration on multi-agent systems and autonomous trading infrastructure.
+- Conversations with teams working on agent observability, validator design, or AI-finance integration.
+- Research-adjacent roles where engineering rigour matters.
