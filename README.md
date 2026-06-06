@@ -1,9 +1,6 @@
 # Yeison Riascos Sanchez
 
-**AI Agent Developer & Fintech Automation Builder**
-Spirano, Italy · Building autonomous systems at the intersection of LLMs, blockchain and financial infrastructure.
-
-I design and ship multi-agent architectures, on-chain automation, and AI-driven trading tooling. My work focuses on systems that *act*, not just analyse — agents that hold state, coordinate, and produce measurable outcomes.
+**AI Agent Developer
 
 - **Email:** yeisonriascos@gmail.com
 - **LinkedIn:** [linkedin.com/in/yeison-riascos-sanchez](https://linkedin.com/in/yeison-riascos-sanchez)
@@ -42,6 +39,6 @@ I design and ship multi-agent architectures, on-chain automation, and AI-driven 
 
 ## Open to
 
-- Collaboration on multi-agent systems and autonomous trading infrastructure.
+- Collaboration on multi-agent systems and autonomous 
 - Conversations with teams working on agent observability, validator design, or AI-finance integration.
 - Research-adjacent roles where engineering rigour matters.
